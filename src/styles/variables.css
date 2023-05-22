@@ -1,0 +1,17 @@
+:root {
+    /* Colors */
+    --cream: #f5f5f5;
+    --black: #000000;
+    --espresso: #4f3c2f;
+    --mocha: #725640;
+    --cappuccino: #a17659;
+    --latte: #d9c2ab;
+
+    /* Fonts */
+
+    /* Sizes  */
+    --size-small: 1.5rem;
+    --size-medium: 2rem;
+    --size-large: 3rem;
+    --size-xlarge: 4rem;
+}

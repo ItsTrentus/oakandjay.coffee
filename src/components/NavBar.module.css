@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: var(--espresso);
+    color: var(--cream);
+    font-size: var(--fs-xlarge);
+
+    & ul {
+        list-style: none;
+        display: flex;
+        gap: 3rem;
+
+        & li a {
+            text-decoration: none;
+        }
+    }
+}
+
+.logo {
+    font-size: var(--fs-xxlarge);
+}
