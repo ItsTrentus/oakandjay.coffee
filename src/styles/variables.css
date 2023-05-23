@@ -7,11 +7,21 @@
     --cappuccino: #a17659;
     --latte: #d9c2ab;
 
-    /* Fonts */
+    /* Animation Durations */
+    --animate-short: 200ms;
+    --animate-medium: 300ms;
+    --animate-long: 400ms;
 
-    /* Sizes  */
-    --size-small: 1.5rem;
-    --size-medium: 2rem;
-    --size-large: 3rem;
-    --size-xlarge: 4rem;
+    /* Font Sizes */
+    --fs-regular: 1.6rem;
+    --fs-medium: 1.8rem;
+    --fs-large: 2.4rem;
+    --fs-xlarge: 3.2rem;
+    --fs-xxlarge: 4.8rem;
+
+    /* Magins  */
+    --m-small: 1rem;
+    --m-regular: 3rem;
+    --m-medium: 6rem;
+    --m-large: 10rem;
 }

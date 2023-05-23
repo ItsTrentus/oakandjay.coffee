@@ -1,0 +1,39 @@
+.header {
+    font-size: var(--fs-xxlarge);
+    text-align: center;
+    font-family: cubano, sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 10vw;
+    text-shadow: -0.04em 0.04em 0 #000, 0.04em 0.04em 0 #000, 0.04em -0.04em 0 #000, -0.04em -0.04em 0 #000;
+}
+
+.latte {
+    color: var(--latte);
+}
+
+.cappuccino {
+    color: var(--cappuccino);
+}
+
+.mocha {
+    color: var(--mocha);
+}
+
+.espresso {
+    color: var(--espresso);
+}
+
+.black {
+    color: var(--black);
+}
+
+.paraImg {
+    & img {
+        object-fit: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+}
